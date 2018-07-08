@@ -1,6 +1,6 @@
 # Find-My-Yoga
-### An app found at findmyyoga.site
-### A neural net powers the identification of four groups of yoga poses to enable users to select which yoga video they're most interested to watch.
+Find My Yoga is an app found at findmyyoga.site.
+In the app, a neural net powers the identification of four groups of yoga poses to enable users to select which yoga video they're most interested to watch.
 
 Created by Julianne Freeman<br>
 Insight Fellow 2018B<br>
